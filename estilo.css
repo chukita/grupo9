@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.TB{
+    color:#bbb;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {color:#ff0000}
+
+#cuerpo h3{
+    font-size: 15px;
+    color: #fff
+} 
